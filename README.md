@@ -6,4 +6,4 @@ Screenshot:
 ![Alt text](./example.png "Example Screenshot")
 
 Link:
-WIP
+https://jackloveday-git.github.io/loveday-daily-schedule/
